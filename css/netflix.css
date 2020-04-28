@@ -52,7 +52,6 @@ header {
 .netflixLogo {
   grid-area: nt;
   object-fit: cover;
-  width: 100px;
   max-height: 100%;
   
   padding-left: 30px;
@@ -101,10 +100,7 @@ header {
 }
 
 
-/* MAIN CONTIANER */
-.main-container {
-  padding: 50px;
-}
+
 
 .box {
   display: grid;
@@ -234,8 +230,6 @@ footer {
   }
 
   .netflixLogo {
-    max-width: 100%;
-    margin: auto;
     padding-right: 20px;
   }
 
